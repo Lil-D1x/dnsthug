@@ -32,6 +32,6 @@ $ ./dnsthug
 ```
 ## License
 
-This project is under the license [MIT](./LICENSE).
+This project is under the license [GPL](./LICENSE).
 
 Made by Harley Araujo (lildix)
