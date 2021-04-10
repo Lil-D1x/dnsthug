@@ -1,7 +1,7 @@
 #!/bin/bash
 if [ "$1" == "" ]
 then
-	echo "########### LIL DIX - DNS ENUMERATOR  ###########"
+	echo "########### LIL DIX - DNSTHUG  ###########"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
 	echo "Example: $0 target.com wordlist.txt"
 	echo "- - - - - -  - - -  - - - - - - - - - - - - -"
